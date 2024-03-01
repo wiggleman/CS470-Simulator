@@ -37,7 +37,7 @@ sudo docker run hello-world
 ```
 
 The grading environment is defined in a configuration file called Dockerfile. With it, we can build the docker image
-docker containing the actual grading environment and register it to docker. We can do so with two commands.
+containing the actual grading environment and register it to docker. We can do so with two commands.
 
 From the root of the homework (where the Dockerfile image is), to build the docker image simply run.
 
